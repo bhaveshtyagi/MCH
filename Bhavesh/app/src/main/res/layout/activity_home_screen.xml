@@ -1,0 +1,251 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:background="@color/colorPrimary"
+    android:scrollbars = "vertical"
+    android:scrollbarStyle="insideInset"
+    >
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="1">
+
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="44dp"
+        android:layout_marginRight="44dp"
+        android:layout_marginTop="45dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="23dp"
+        android:layout_toLeftOf="@+id/button"
+        android:layout_toStartOf="@+id/button"
+        android:text="UIDAI No:" />
+
+    <EditText
+        android:id="@+id/editText6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="27dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView9"
+        android:layout_alignStart="@+id/textView9"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="23dp"
+        android:layout_below="@+id/editText6"
+        android:layout_marginTop="50dp"
+        android:text="Name" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/editText6"
+        android:layout_marginTop="34dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView13"
+        android:layout_alignRight="@+id/textView13"
+        android:layout_below="@+id/editText7"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="23dp"
+        android:layout_marginTop="45dp"
+        android:text="Phone" />
+
+    <EditText
+        android:id="@+id/editText8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/editText7"
+        android:layout_marginTop="29dp"
+        android:ems="10"
+        android:inputType="phone" />
+
+
+
+        <TextView
+            android:id="@+id/textView69"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView14"
+            android:layout_alignStart="@+id/textView14"
+            android:layout_below="@+id/editText8"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginTop="42dp"
+            android:textSize="23dp"
+            android:text="Description" />
+
+        <EditText
+            android:id="@+id/editText96"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/editText8"
+            android:layout_marginTop="28dp"
+            android:ems="10"
+            android:inputType="textPostalAddress" />
+
+
+
+        <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView14"
+        android:layout_alignStart="@+id/textView14"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_below="@+id/editText8"
+        android:layout_marginTop="42dp"
+        android:textSize="23dp"
+        android:text="Address" />
+
+
+
+
+        <EditText
+        android:id="@+id/editText9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/editText8"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:inputType="textPostalAddress" />
+
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView15"
+            android:layout_alignStart="@+id/textView15"
+            android:textSize="23dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_below="@+id/editText9"
+            android:layout_marginTop="34dp"
+            android:text="Place of criminal act" />
+
+        <EditText
+            android:id="@+id/editText23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/editText9"
+            android:layout_marginTop="22dp"
+            android:ems="10"
+            android:inputType="text" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button"
+        android:layout_alignLeft="@+id/textView16"
+        android:textSize="23dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginTop="11dp"
+        android:layout_alignStart="@+id/textView16"
+        android:layout_marginBottom="25dp"
+        android:text="Date" />
+
+    <EditText
+        android:id="@+id/editText12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView17"
+        android:layout_alignLeft="@+id/editText10"
+        android:layout_alignStart="@+id/editText10"
+        android:ems="10"
+        android:inputType="date" />
+
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView15"
+            android:layout_alignStart="@+id/textView15"
+            android:textSize="23dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_below="@+id/editText9"
+            android:layout_marginTop="34dp"
+            android:text="Time" />
+
+        <EditText
+            android:id="@+id/editText10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/editText9"
+            android:layout_marginTop="22dp"
+            android:ems="10"
+            android:inputType="time" />
+
+
+
+        <TextView
+            android:id="@+id/textView33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView9"
+            android:layout_alignStart="@+id/textView9"
+            android:textSize="23dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_below="@+id/editText6"
+            android:layout_marginTop="50dp"
+            android:text="Name of Officer who arrested" />
+
+        <EditText
+            android:id="@+id/editText34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/editText6"
+            android:layout_marginTop="34dp"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="15dp"
+            android:text="Submit" />
+
+
+
+    </TableLayout>
+
+</ScrollView>

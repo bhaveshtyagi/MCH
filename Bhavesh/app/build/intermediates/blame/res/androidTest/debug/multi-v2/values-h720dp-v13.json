@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ayushman/Desktop/Ayushman/Bhavesh/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/ayushman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4b03f76285f114f2e88eeddd1eab4d5f/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/james/Dropbox/Android/Shasha/Bhavesh/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/james/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/53c3628b688df25490a8649dffff95a8/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ayushman/Downloads/Bhavesh/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/ayushman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4b03f76285f114f2e88eeddd1eab4d5f/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

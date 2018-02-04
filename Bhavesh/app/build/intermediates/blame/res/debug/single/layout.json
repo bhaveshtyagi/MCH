@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/ayushman/Dropbox/Shasha/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/activity_home_screen.xml",
+        "source": "/home/ayushman/Dropbox/Shasha/app/src/main/res/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/james/Dropbox/Android/Shasha/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/home/ayushman/Dropbox/Shasha/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/home/james/Dropbox/Android/Shasha/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/activity_home_screen.xml",
+        "source": "/home/james/Dropbox/Android/Shasha/app/src/main/res/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/layout/abc_search_view.xml"
+    }
+]

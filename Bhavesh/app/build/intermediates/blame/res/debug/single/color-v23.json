@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

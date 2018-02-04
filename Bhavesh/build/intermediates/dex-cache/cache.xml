@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/2246bc4b2137597f1e3e99fc6aee029538207f11/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bce00481c2e1f25eb5564c22cae9d174aaea03d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/Dropbox/Shasha/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f1f3c1ee3a787b3b5b3dfb97220cfc54703a027">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a788cfcf6275e7dc4c8c871ea9cb7bb63af06060/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/b4d5ad1b2c388dd4a1ce150793922b1dd1394748/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ae84fdbde9523f0a6e22afa095abb08fdb5f718/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ebf9d48782d7d0b5467fa3cb70126ebb7374e4c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/c804ab5ca51d76a24d7dc93a4275479d883f19f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ef4dfab598d84aa6634dbb1e71ea90b99e83cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/1b392a46a9f069a0804ac6791666a3ec788fa75f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ae3100f7ff92359f230c12727f4678d378c2bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_553974b359d59188c79fe3f80ec265a606dd1bd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/176a1e12dff38d7c0abb76c55f81c3a1f00d0902/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab79bdd3b1e60df1f19c64f0995a55af866a39bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/4d4e2281f1923066e59d5f7fcb81755afa9613db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2aa1a6c80846f4e75d29870eb0c08efd578e025/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/Dropbox/Shasha/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d6a27b524b8a1bcee92a2e3fc9a0b1bfd2f837d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/f3102f4927b38ba8f71b890e78fe456e3f0e7ca1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1a68b6565200aafec04a27b5cf9ed4c7419df58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/f29130d2dbbf581f3e90cb34df8f783f62c7e027/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a39c01b9fc1487c0ff0fb3368896e9fb9a8c082a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/45ee576a899a5d10306a138236b780c528886ea8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6bf88b79955e13c673d79ab43dbef57f5b83bb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_12dddd030568592758a3e11fb034863e574a8c07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/e15e7067aad25a2a5e542132a3d31c1147b27b66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9fd7c3fcbc22a81eb7d9f2a9b30eabc430f732b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/74809f32aa9263dc21b977d77a64c50644c4ad2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f3f68ddf4d97dc91ce457369cb885adf2e8831e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/ayushman/Dropbox/Shasha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e6d8e024119cfb33d2a3647a68a161fa02a68d3/classes.dex" />
+    </item>
+
+</items>

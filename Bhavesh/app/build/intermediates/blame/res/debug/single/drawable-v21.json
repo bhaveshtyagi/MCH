@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ayushman/.android/build-cache/13668c6bf4e9ff9c156627dae93b6139edd38dbd/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/james/.android/build-cache/56ba455d4a9271f369312b9595cebd57bca4d9b3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/james/.android/build-cache/9ec30677058c11846642e2e8443f64469360fd3b/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/logo.xml",
+        "source": "/home/ayushman/Dropbox/Shasha/app/build/generated/res/pngs/debug/drawable-anydpi-v21/logo.xml"
+    },
+    {
+        "merged": "/home/ayushman/Dropbox/Shasha/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/ayushman/.android/build-cache/cdad1e07ddece85c97dbea5a7e783e38c806fe35/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/james/Dropbox/Android/Shasha/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/logo.xml",
+        "source": "/home/james/Dropbox/Android/Shasha/app/build/generated/res/pngs/debug/drawable-anydpi-v21/logo.xml"
+    }
+]
